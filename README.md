@@ -12,4 +12,4 @@ Bachelor Degree in Physics at Institut Teknologi Bandung 2022
 **Assistant Lecturer** in Introduction to Computing course aimed at first year student at ITB
 
 ## Projects
-\ldots in progress
+...in progress
