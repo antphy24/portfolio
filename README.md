@@ -1,7 +1,9 @@
-# Aspiring Data Scientist
+As an aspiring data scientist, I possess significant experience handling experimental data for laboratory exercises throughout my college tenure. I am proficient in both manual and automated data collection methods, utilizing programming languages such as Python, Matlab, and C/C++. My latest endeavor involved analyzing automobile datasets to predict car prices using Python within the Jupyter Notebook environment.
+
 **Skills: Python, Jupyter, Pandas, Numpy, SciPy, Scikit-Learn, Matplotlib, Seaborn, Data Analysis, Regression, Classification, Clustering.**
 
 ## Education
+---
 Bachelor Degree in Physics   
 Institut Teknologi Bandung (2022)   
 - I have received Dean's List honors for six consecutive semesters. The Dean's List is awarded to students who achieve a GPA
@@ -10,6 +12,7 @@ of over 3.5 out of 4 in the current semester and meet a minimum credit requireme
 - Each year, I make a point to enroll in at least one computer‑related course, consistently achieving a perfect score of 4 out of 4 upon completion.
 
 ## Experiences
+---
 **Tutor**   
 Studypool (04/2023 - Present)
 - Assist students in comprehending and resolving queries across Physics, Math, and Programming disciplines. Received positive reviews from every student assisted thus far, boasting a 100% success rate. Attained Top Tutor status by consistently providing high‑quality answers and explanations to students.
@@ -25,9 +28,11 @@ Lembaga Tahap Persiapan Bersama, ITB (08/2019 - 12/2019)
 optimizing their codes.
 
 ## Projects
+---
 ...in progress
 
 ## Certificates
+---
 **[Machine Learning with Python](https://courses.cognitiveclass.ai/certificates/e77a4a173443420ebc6c94549e7a84c8)**   
 *Cognitive Class*   
 Issued Feb 2024
