@@ -1,6 +1,6 @@
 As an aspiring data scientist, I possess significant experience handling experimental data for laboratory exercises throughout my college tenure. I am proficient in both manual and automated data collection methods, utilizing programming languages such as Python, Matlab, and C/C++. My latest endeavor involved analyzing automobile datasets to predict car prices using Python within the Jupyter Notebook environment.
 
-**Skills: Python, Jupyter, Pandas, Numpy, SciPy, Scikit-Learn, Matplotlib, Seaborn, Data Analysis, Regression, Classification, Clustering.**
+**Skills:** Python, Jupyter, Pandas, Numpy, SciPy, Scikit-Learn, Matplotlib, Seaborn, Data Analysis, Regression, Classification, Clustering.
 
 ## Education
 ---
